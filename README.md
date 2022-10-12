@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @penachary
 - 👀 I’m interested in Front End web development
-- 🌱 I’m currently learning ReactJS
+- 🌱  ReactJS is favorite
 - 📫 How to reach me penacharyyew@gmail.com
 
 <!---
