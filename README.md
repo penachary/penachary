@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @penachary
-- 👀 I’m interested in Front End web development
+- 👀 I’m Front End web development
 - 🌱  ReactJS is favorite
 - 📫 How to reach me penacharyyew@gmail.com
 
